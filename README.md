@@ -8,6 +8,10 @@
 <p>Phone- +16239866712</p>
 <p>Address- 955 E Baseline Rd, Tempe, AZ-85283</p>
 <p>Email- ssing382@asu.edu</p>
+  www.linkedin.com/in/
+shambhavi-singh2002
+
+
 
 <h2>Objective</h2>
 <p>Applying for the Google summer intership 2023 for the role of software development internship.</p>
